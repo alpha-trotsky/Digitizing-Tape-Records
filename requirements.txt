@@ -1,0 +1,7 @@
+paddleocr
+opencv-python
+numpy
+rapidfuzz
+pandas
+Pillow
+shapely
